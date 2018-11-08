@@ -1,0 +1,27 @@
+{
+  "name": "koa2-movie",
+  "version": "1.0.0",
+  "description": "movie",
+  "main": "server/index.js",
+  "scripts": {
+    "start:dev": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txqcoder/koa2-movie.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "tangxiaoqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txqcoder/koa2-movie/issues"
+  },
+  "homepage": "https://github.com/txqcoder/koa2-movie#readme",
+  "dependencies": {
+    "koa": "^2.6.1"
+  }
+}
