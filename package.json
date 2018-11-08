@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/txqcoder/koa2-movie#readme",
   "dependencies": {
-    "koa": "^2.6.1"
+    "ejs": "^2.6.1",
+    "koa": "^2.6.1",
+    "pug": "^2.0.3"
   }
 }
